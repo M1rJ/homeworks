@@ -1,0 +1,7 @@
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\bin\Debug\Less1.exe.config
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\bin\Debug\Less1.exe
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\bin\Debug\Less1.pdb
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\obj\Debug\Less1.csproj.AssemblyReference.cache
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\obj\Debug\Less1.csproj.CoreCompileInputs.cache
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\obj\Debug\Less1.exe
+C:\Users\miris\OneDrive\Рабочий стол\Прочее\Практика по C#\Less1\obj\Debug\Less1.pdb
